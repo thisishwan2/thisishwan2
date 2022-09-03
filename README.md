@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.instagram.com/ran_p_c/"> <img src="https://img.shields.io/badge/instargram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>
 
+language
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishwan2&show_icons=true&theme=chartreuse-dark)

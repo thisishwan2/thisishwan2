@@ -14,9 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    <Hwan's Baekjoon Python>
+
+## <Hwan's Baekjoon Python>
     
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=feel0006)](https://solved.ac/feel0006/)  
+[![Solved.ac
+<Hwan's Baekjoon Python>](http://mazassumnida.wtf/api/v2/generate_badge?boj=feel0006)](https://solved.ac/feel0006)
+
+## <Hwan's Baekjoon Java>
+
+[![Solved.ac
+<Hwan's Baekjoon Java>](http://mazassumnida.wtf/api/v2/generate_badge?boj=fill0006)](https://solved.ac/fill0006)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishwan2&show_icons=true&theme=chartreuse-dark)

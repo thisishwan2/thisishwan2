@@ -47,20 +47,16 @@ Here are some ideas to get you started:
     <h2>⚒ Tech Stack ⚒</h2>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-square&logo=javascript&logoColor=black"> 
     </br>
     <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/django-092E20?style=for-square&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-092E20?style=for-square&logo=fastapi&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/django-092E20?style=for-square&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/figma-1DB3F5?style=for-square&logo=figma&logoColor=white"/>
     </br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-square&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-square&logo=MongoDB&logoColor=white"/>
     </br>
-    <img height="22px" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&amp;logo=Tensorflow&amp;logoColor=white" alt="Tensorflow Badge">
 </div>
 
 

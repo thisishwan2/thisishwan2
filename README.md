@@ -15,18 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+### ✨ Language
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" alt="Python Badge">
+
+### 💻 Tech Stack
+<img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> 
+
+
+
+### 📸 My Record
+- **Dongguk University Industry System Engeenring RA** `(2023.02 ~ 2022.12)`
+- **Dongguk University Farm System 2th** - Server `(2023.06 ~ 2023.01)`
+- **Depromeet 14th** - Server `(2023.11 ~ ing)`
+
+
+#### 🙋🏻‍♂️ About Me
+<a href="https://www.instagram.com/ran_p_c/"> <img src="https://img.shields.io/badge/instargram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>
+<a href="https://velog.io/@fill0006"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=ttps://velog.io/@fill0006"/></a>
+<a href="mailto:feel000617@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=feel000617@gmail.com"/></a>
+
+
 <!-- ## My BOJ Stats -->
-<div align = center>
   
   <h2> My BOJ Stats - Python </h2>
     
 [![Solved.ac
 <Hwan's Baekjoon Python>](http://mazassumnida.wtf/api/v2/generate_badge?boj=feel0006)](https://solved.ac/feel0006)
 
-
 <!-- ## My BOJ Stats -->
-<div align = center>
-  
+
   <h2> My BOJ Stats - Java </h2>
 
 [![Solved.ac
@@ -34,34 +53,9 @@ Here are some ideas to get you started:
 
 
 <!-- ## My Github Stats  -->
-<div align = center>
+
   
   <h2> My Github Stats </h2>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishwan2&show_icons=true&theme=chartreuse-dark)
 
-
-
-<!-- ## ⚒ Tech Stack ⚒ -->
-<div align="center">
-    <h2>⚒ Tech Stack ⚒</h2>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=Python&amp;logoColor=white" alt="Python Badge"> 
-    <img src="https://img.shields.io/badge/JAVA-007396?style=flat&amp;logo=JAVA&amp;logoColor=white" alt="JAVA Badge"> 
-    </br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-square&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/django-092E20?style=for-square&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-square&logo=css3&logoColor=white"> 
-    </br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-square&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-square&logo=MongoDB&logoColor=white"/>
-    </br>
-</div>
-
-
-
-<div align = center>
-    <h2> Contact </h2>
-
-<a href="https://www.instagram.com/ran_p_c/"> <img src="https://img.shields.io/badge/instargram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>

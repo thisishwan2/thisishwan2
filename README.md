@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@fill0006"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=ttps://velog.io/@fill0006"/></a>
 <a href="mailto:feel000617@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=feel000617@gmail.com"/></a>
 
+### Certificate
+<a href="https://www.credly.com/badges/68638bf9-350f-4e2c-94b0-71b7e29af6a0/public_url"> <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
+
 
 <!-- ## My BOJ Stats -->
   

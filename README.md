@@ -45,14 +45,7 @@ Here are some ideas to get you started:
   <h2> My BOJ Stats - Python </h2>
     
 [![Solved.ac
-<Hwan's Baekjoon Python>](http://mazassumnida.wtf/api/v2/generate_badge?boj=feel0006)](https://solved.ac/feel0006)
-
-<!-- ## My BOJ Stats -->
-
-  <h2> My BOJ Stats - Java </h2>
-
-[![Solved.ac
-<Hwan's Baekjoon Java>](http://mazassumnida.wtf/api/v2/generate_badge?boj=fill0006)](https://solved.ac/fill0006)
+<Hwan's Baekjoon>](http://mazassumnida.wtf/api/v2/generate_badge?boj=feel0006)](https://solved.ac/feel0006)
 
 
 <!-- ## My Github Stats  -->

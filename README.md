@@ -28,7 +28,13 @@ Here are some ideas to get you started:
 ### 📸 My Record
 - **Dongguk University Industry System Engeenring RA** `(2023.02 ~ 2022.12)`
 - **Dongguk University Farm System 2th** - Server `(2023.06 ~ 2023.01)`
-- **Depromeet 14th** - Server `(2023.11 ~ ing)`
+- **Depromeet 14th** - Server `(2023.11 ~ 2023.02)`
+- **Open Source Contribution Academy - Argo CD** `(2024.07 ~ 2024.12)`
+
+### Contributions
+- Argo CD
+  - https://github.com/argoproj/argo-cd/pull/19197
+    - improve error logs
 
 
 #### 🙋🏻‍♂️ About Me

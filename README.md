@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 - Argo CD
   - https://github.com/argoproj/argo-cd/pull/19197
     - improve error logs
+  - https://github.com/argoproj/argo-cd/pull/19323
+    - make MkdirAll by OS
 
 
 #### 🙋🏻‍♂️ About Me

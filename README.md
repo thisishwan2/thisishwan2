@@ -37,7 +37,8 @@ Here are some ideas to get you started:
     - improve error logs
   - https://github.com/argoproj/argo-cd/pull/19323
     - make MkdirAll by OS
-
+  - https://github.com/argoproj/argo-cd/pull/19482
+    - fix dark mode ui
 
 #### 🙋🏻‍♂️ About Me
 <a href="https://www.instagram.com/ran_p_c/"> <img src="https://img.shields.io/badge/instargram-E4405F?style=square&logo=Instagram&logoColor=white"/></a>

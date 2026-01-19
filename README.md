@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   - fix dark mode ui[https://github.com/argoproj/argo-cd/pull/19482]
 - Spring AI
   - Fix Neo4jVectorStore doAdd method ignoring sessionConfig[https://github.com/spring-projects/spring-ai/pull/5200]
+  - Fix openai default null tool arguments to empty JSON string[https://github.com/spring-projects/spring-ai/pull/5232]
 
 <!--
 #### 🙋🏻‍♂️ About Me
